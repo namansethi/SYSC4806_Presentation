@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/SYSC4806Lab6-0.0.1-SNAPSHOT.jar
